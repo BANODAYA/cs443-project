@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_tut.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxxhdpi/ic_tut.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_att.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_att.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_activity_poll.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/activity_poll.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_people.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxxhdpi/ic_people.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_tut.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxhdpi/ic_tut.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_tut.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-mdpi/ic_tut.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_semibold.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_semibold.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_singlenavigation_view.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/singlenavigation_view.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_extrabolditalic.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_extrabolditalic.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_extralight.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_extralight.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_people.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxhdpi/ic_people.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_sub.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-xxhdpi/ic_sub.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_poll.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_poll.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/xml_widget.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/xml/widget.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_import.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxxhdpi/ic_import.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_attaendence.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_attaendence.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_thin.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_thin.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_proj.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxxhdpi/ic_proj.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_single_proj.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/single_proj.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_italic.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_italic.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_email.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxxhdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_light.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_light.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_extrabold.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_extrabold.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_attaendence.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-mdpi/ic_attaendence.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_att.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xhdpi/ic_att.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_mail.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_mail.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_proj.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-mdpi/ic_proj.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_proj.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_proj.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher2.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_mail.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-mdpi/ic_mail.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_notdone.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-xxhdpi/ic_notdone.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable_ic_done.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable/ic_done.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_name.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-hdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_arrow_back_24.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_thinitalic.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_thinitalic.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_notdone.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-hdpi/ic_notdone.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_monday_layout.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/monday_layout.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_proj.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxhdpi/ic_proj.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_activity_friday.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/activity_friday.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_sub.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-xhdpi/ic_sub.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_dialogdate.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/dialogdate.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_blackitalic.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_blackitalic.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_bold.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_bold.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sub.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-hdpi/ic_sub.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_share.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_tuesday_layout.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/tuesday_layout.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_activity_settings.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_list_single.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/list_single.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_activity_projects.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/activity_projects.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_roboto_slab_medium.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/roboto_slab_medium.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_share.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-mdpi/ic_share.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_settings_24.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_import.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-mdpi/ic_import.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_settings_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_lightitalic.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_lightitalic.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_activity_old.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/activity_old.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_dat.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-xxhdpi/ic_dat.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_proj.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-xhdpi/ic_proj.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_settings_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable_rect_curvy_bg_seleted.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable/rect_curvy_bg_seleted.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_att.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-mdpi/ic_att.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_single_check.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/single_check.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_activity_thrusday.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/activity_thrusday.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_poll.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xhdpi/ic_poll.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_att.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxxhdpi/ic_att.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_att.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxhdpi/ic_att.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_attaendence.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xhdpi/ic_attaendence.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_email.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxhdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_dat.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-hdpi/ic_dat.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_dialogtime.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/dialogtime.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_poll.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxhdpi/ic_poll.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_mediumitalic.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_mediumitalic.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_mail.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxxhdpi/ic_mail.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_keyboard_arrow_right_24.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_keyboard_arrow_right_24.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_extralightitalic.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_extralightitalic.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_poll.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-mdpi/ic_poll.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-xxhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_tut.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xhdpi/ic_tut.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_tut.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_tut.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_attaendence.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxhdpi/ic_attaendence.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_activity_editor.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/activity_editor.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_people.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xhdpi/ic_people.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_settings_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_import.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xhdpi/ic_import.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_email.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-mdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_widget.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/widget.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_proj.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-hdpi/ic_proj.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_wednesday_layout.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/wednesday_layout.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_poll.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxxhdpi/ic_poll.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_people.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_people.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_dat.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-xhdpi/ic_dat.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_settings_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_sans.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/sans.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_name.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-xhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_mail.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxhdpi/ic_mail.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_import.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_import.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_share.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_share.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_semibolditalic.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_semibolditalic.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_proj.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xhdpi/ic_proj.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_settings.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_notdone.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-xhdpi/ic_notdone.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_settings.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_black.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_black.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_settings.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_proj.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/drawable-xxhdpi/ic_proj.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_attaendence.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxxhdpi/ic_attaendence.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_share.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_people.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-mdpi/ic_people.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_settings.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_email.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xhdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_bolditalic.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_bolditalic.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_activity_attendence.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/activity_attendence.xml"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_import.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xxhdpi/ic_import.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_email.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-hdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_medium.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_medium.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_settings.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-mdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_share.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xhdpi/ic_share.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_mail.png.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/mipmap-xhdpi/ic_mail.png"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/font_montserrat_regular.ttf.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/font/montserrat_regular.ttf"
+    },
+    {
+        "merged": "/Users/banodayanaidu/Desktop/TimeTable/app/build/intermediates/res/merged/debug/layout_activity_project_show.xml.flat",
+        "source": "/Users/banodayanaidu/Desktop/TimeTable/app/src/main/res/layout/activity_project_show.xml"
+    }
+]

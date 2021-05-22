@@ -1,0 +1,171 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kanadtech.timetable"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml
+10
+11    <!-- SD card write permission -->
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:7:5-80
+12-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:7:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:8:5-81
+13-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+14-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:9:5-82
+14-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:9:22-79
+15
+16    <!--
+17     <application
+18         android:allowBackup="true"
+19         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20         android:icon="@mipmap/ic_launcher"
+21         android:label="@string/app_name"
+22         android:requestLegacyExternalStorage="true"
+23         android:roundIcon="@mipmap/ic_launcher_round"
+24         android:supportsRtl="true"
+25         android:theme="@style/AppTheme"
+26         android:usesCleartextTraffic="true">
+27    -->
+28    <application
+28-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:23:5-95:19
+29        android:allowBackup="true"
+29-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:24:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.3.1] /Users/banodayanaidu/.gradle/caches/transforms-2/files-2.1/aed2d48291dbe4779678b4bb5ca34b78/core-1.3.1/AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher2"
+32-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:25:9-44
+33        android:label="@string/app_name"
+33-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:26:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:27:9-54
+35        android:supportsRtl="true"
+35-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:28:9-35
+36        android:testOnly="true"
+37        android:theme="@style/AppTheme" >
+37-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:29:9-40
+38        <activity
+38-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:32:9-34:59
+39            android:name="com.cs443.timetable.activity.MainActivity"
+39-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:33:13-69
+40            android:theme="@style/AppTheme.NoActionBar" />
+40-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:34:13-56
+41        <activity
+41-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:36:9-38:59
+42            android:name="com.cs443.timetable.activity.SettingsActivity"
+42-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:37:13-73
+43            android:theme="@style/AppTheme.NoActionBar" />
+43-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:38:13-56
+44        <activity
+44-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:39:9-45:20
+45            android:name="com.cs443.timetable.activity.EditorActivity"
+45-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:40:13-71
+46            android:windowSoftInputMode="stateVisible|adjustPan|adjustResize" >
+46-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:41:13-78
+47            <meta-data
+47-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:42:13-44:77
+48                android:name="android.support.PARENT_ACTIVITY"
+48-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:43:17-63
+49                android:value="com.cs443.timetable.activity.MainActivity" />
+49-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:44:17-74
+50        </activity>
+51
+52        <provider
+52-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:47:9-50:40
+53            android:name="com.cs443.timetable.TiimetableProvider"
+53-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:48:13-66
+54            android:authorities="com.divyam.timetable"
+54-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:49:13-55
+55            android:exported="false" />
+55-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:50:13-37
+56
+57        <receiver android:name="com.cs443.timetable.Widgets" >
+57-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:52:9-60:20
+57-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:52:19-61
+58            <intent-filter>
+58-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:53:13-55:29
+59                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+59-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:54:17-84
+59-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:54:25-81
+60            </intent-filter>
+61
+62            <meta-data
+62-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:57:13-59:50
+63                android:name="android.appwidget.provider"
+63-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:58:17-58
+64                android:resource="@xml/widget" />
+64-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:59:17-47
+65        </receiver>
+66
+67        <service android:name="com.cs443.timetable.WidgetService" />
+67-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:62:9-69
+67-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:62:18-66
+68
+69        <activity
+69-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:64:9-71:20
+70            android:name="com.cs443.timetable.activity.ProjectsActivity"
+70-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:65:13-73
+71            android:label="Add Projects"
+71-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:66:13-41
+72            android:windowSoftInputMode="stateVisible|adjustPan|adjustResize" >
+72-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:67:13-78
+73            <meta-data
+73-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:42:13-44:77
+74                android:name="android.support.PARENT_ACTIVITY"
+74-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:43:17-63
+75                android:value="com.cs443.timetable.activity.ProjectShowActivity" />
+75-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:44:17-74
+76        </activity>
+77        <activity
+77-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:72:9-78:20
+78            android:name="com.cs443.timetable.activity.ProjectShowActivity"
+78-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:73:13-76
+79            android:label="Projects" >
+79-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:74:13-37
+80            <meta-data
+80-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:42:13-44:77
+81                android:name="android.support.PARENT_ACTIVITY"
+81-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:43:17-63
+82                android:value="com.cs443.timetable.activity.MainActivity" />
+82-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:44:17-74
+83        </activity>
+84        <activity
+84-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:79:9-87:20
+85            android:name="com.cs443.timetable.activity.SplashActivity"
+85-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:80:13-71
+86            android:theme="@style/AppTheme.NoActionBar" >
+86-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:81:13-56
+87            <intent-filter>
+87-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:82:13-86:29
+88                <action android:name="android.intent.action.MAIN" />
+88-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:83:17-69
+88-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:83:25-66
+89
+90                <category android:name="android.intent.category.LAUNCHER" />
+90-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:85:17-77
+90-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:85:27-74
+91            </intent-filter>
+92        </activity>
+93        <activity
+93-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:88:9-94:20
+94            android:name="com.cs443.timetable.activity.AttendenceActivity"
+94-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:89:13-75
+95            android:label="Attendence Manager" >
+95-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:90:13-47
+96            <meta-data
+96-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:42:13-44:77
+97                android:name="android.support.PARENT_ACTIVITY"
+97-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:43:17-63
+98                android:value="com.cs443.timetable.activity.MainActivity" />
+98-->/Users/banodayanaidu/Desktop/TimeTable/app/src/main/AndroidManifest.xml:44:17-74
+99        </activity>
+100    </application>
+101
+102</manifest>
